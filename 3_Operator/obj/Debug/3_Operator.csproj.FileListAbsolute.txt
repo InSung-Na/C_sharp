@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Learning_C#\3_Operator\bin\Debug\3_Operator.exe.config
+C:\Users\user\source\repos\Learning_C#\3_Operator\bin\Debug\3_Operator.exe
+C:\Users\user\source\repos\Learning_C#\3_Operator\bin\Debug\3_Operator.pdb
+C:\Users\user\source\repos\Learning_C#\3_Operator\obj\Debug\3_Operator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Learning_C#\3_Operator\obj\Debug\3_Operator.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Learning_C#\3_Operator\obj\Debug\_3_Operator.Form1.resources
+C:\Users\user\source\repos\Learning_C#\3_Operator\obj\Debug\_3_Operator.Properties.Resources.resources
+C:\Users\user\source\repos\Learning_C#\3_Operator\obj\Debug\3_Operator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Learning_C#\3_Operator\obj\Debug\3_Operator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Learning_C#\3_Operator\obj\Debug\3_Operator.exe
+C:\Users\user\source\repos\Learning_C#\3_Operator\obj\Debug\3_Operator.pdb

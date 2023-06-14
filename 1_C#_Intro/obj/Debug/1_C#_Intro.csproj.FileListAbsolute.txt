@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\bin\Debug\1_C#_Intro.exe.config
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\bin\Debug\1_C#_Intro.exe
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\bin\Debug\1_C#_Intro.pdb
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\obj\Debug\1_C#_Intro.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\obj\Debug\1_C#_Intro.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\obj\Debug\_1_C__Intro.Form1.resources
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\obj\Debug\_1_C__Intro.Properties.Resources.resources
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\obj\Debug\1_C#_Intro.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\obj\Debug\1_C#_Intro.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\obj\Debug\1_C#_Intro.exe
+C:\Users\user\source\repos\Learning_C#\1_C#_Intro\obj\Debug\1_C#_Intro.pdb
