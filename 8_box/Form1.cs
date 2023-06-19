@@ -2,7 +2,7 @@
 /*
  - MessageBox
     - MessageBox.Show("CONTENT", "TITLE", "MessageBoxButtons.BUTTON", "MessageBoxIcon.ICON")
- - CheckBox, radioButton
+ - CheckBox, RadioButton
     - CheckBox/radioButton.Checked == true or false
  - ComboBox, ListBox
     - 속성창 -> 데이터 -> Items에서 내용추가
