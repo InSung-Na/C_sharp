@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Learning_C#\13_14_Class\bin\Debug\13_14_Class.exe.config
+C:\Users\user\source\repos\Learning_C#\13_14_Class\bin\Debug\13_14_Class.exe
+C:\Users\user\source\repos\Learning_C#\13_14_Class\bin\Debug\13_14_Class.pdb
+C:\Users\user\source\repos\Learning_C#\13_14_Class\obj\Debug\13_14_Class.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Learning_C#\13_14_Class\obj\Debug\13_14_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Learning_C#\13_14_Class\obj\Debug\_13_14_Class.Form1.resources
+C:\Users\user\source\repos\Learning_C#\13_14_Class\obj\Debug\_13_14_Class.Properties.Resources.resources
+C:\Users\user\source\repos\Learning_C#\13_14_Class\obj\Debug\13_14_Class.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Learning_C#\13_14_Class\obj\Debug\13_14_Class.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Learning_C#\13_14_Class\obj\Debug\13_14_Class.exe
+C:\Users\user\source\repos\Learning_C#\13_14_Class\obj\Debug\13_14_Class.pdb
