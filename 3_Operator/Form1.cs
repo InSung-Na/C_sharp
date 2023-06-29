@@ -11,6 +11,7 @@
     - ==, !=, >, <, >=, <=
 - 논리연산자
     - !(A==B), &&, ||
+- int.Parse(DATA): DATA를 int로 파싱
  */
 
 using System;
