@@ -43,6 +43,7 @@ namespace _1_C__Intro
         private void button1_Click(object sender, EventArgs e)
         {
             //버튼1 클릭 시 실행 프로그램 작성
+            //label에 텍스트 입력
             label1.Text = "안녕하세요? C#을 시작합니다";
         }
 
