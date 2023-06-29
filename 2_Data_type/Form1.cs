@@ -31,13 +31,13 @@ namespace _2_Data_type
         private void btnInt_Click(object sender, EventArgs e)
         {
             int iValue = 100;
-            lblResult.Text = iValue.ToString();
+            lblResult.Text = iValue.ToString(); //int to string
         }
 
         private void btnDouble_Click(object sender, EventArgs e)
         {
             double dValue = 3.14159;
-            lblResult.Text = dValue.ToString();
+            lblResult.Text = dValue.ToString(); //double to string
         }
 
         private void btnString_Click(object sender, EventArgs e)
