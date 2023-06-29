@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\bin\Debug\17_File_Write_Read.exe.config
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\bin\Debug\17_File_Write_Read.exe
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\bin\Debug\17_File_Write_Read.pdb
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\obj\Debug\17_File_Write_Read.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\obj\Debug\17_File_Write_Read.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\obj\Debug\_17_File_Write_Read.Form1.resources
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\obj\Debug\_17_File_Write_Read.Properties.Resources.resources
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\obj\Debug\17_File_Write_Read.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\obj\Debug\17_File_Write_Read.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\obj\Debug\17_File_Write_Read.exe
+C:\Users\user\source\repos\Learning_C#\17_File_Write_Read\obj\Debug\17_File_Write_Read.pdb
